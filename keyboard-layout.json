@@ -1,0 +1,229 @@
+[
+  {
+    "backcolor": "#191919",
+    "notes": "~`:1.5u    -> (None)\nTab:1.5u   -> ERGO TEXT\nCtrl:1.5u  -> ERGO TEXT\nShift:1.5u -> ERGO TEXT\nLeft       -> ERGO TEXT, ERGO MICONS, ARROWS\n\n1          -> ALPHAS\nQ          -> ALPHAS\nA          -> ALPHAS\nZ          -> ALPHAS\nDown       -> ALPHAS\n\n2          -> ALPHAS\nW          -> ALPHAS\nS          -> ALPHAS\nX          -> ALPHAS\nUp         -> ALPHAS\n\n3          -> ALPHAS\nE          -> ALPHAS\nD          -> ALPHAS\nC          -> ALPHAS\nRight      -> ALPHAS\n\n4          -> ALPHAS\nR          -> ALPHAS\nF          -> ALPHAS\nV          -> ALPHAS\nSuper      -> ?\n\n5          -> ALPHAS\nT          -> ALPHAS\nG          -> ALPHAS\nB          -> ALPHAS\n\n----------------\n\nBack:2.0u  -> (None) :2u\n\nCtrl       -> TEXT HOBBYIST\nFn:2.0u    -> (None)\n\nMenu       -> ?(Meta), ERGO TEXT, TEXT ORTHO\nSuper      -> ?\nAlt        -> TEXT HOBBYIST\n\n----------------\n\nPgUp       -> ERGO TEXT, ERGO MICONS\nIns        -> ERGO TEXT, ERGO MICONS\nDel        -> ERGO TEXT, ERGO MICONS\n\nPgDn       -> ERGO TEXT, ERGO MICONS\n?:2.0u     -> ?\n?:2.0u     -> ?\n\n----------------\n\n6          -> ALPHAS\nY          -> ALPHAS\nH          -> ALPHAS\nN          -> ALPHAS\n\n7          -> ALPHAS\nU          -> ALPHAS\nJ          -> ALPHAS\nM          -> ALPHAS\n[          -> ALPHAS\n\n8          -> ALPHAS\nI          -> ALPHAS\nK          -> ALPHAS\n<          -> ALPHAS\n]          -> ALPHAS\n\n9          -> ALPHAS\nO          -> ALPHAS\nL          -> ALPHAS\n(>)        -> ALPHAS\nF1         -> F-ROW(May not necessary)\nF2         -> F-ROW(May not necessary)\n\n+:1.5u     -> ERGO TEXT\n-:1.5u     -> ERGO TEXT\nEnter:1.5u -> ?, MICONS BAUHAUS\nShift:1.5u -> ERGO TEXT\nEnd(Esc?)  -> ERGO TEXT\n\n"
+  },
+  [
+    {"x": 4.25, "c": "#333333", "t": "#ffffff", "a": 5, "fa": [5, 5]},  "#\n3",
+    {"x": 9, "fa": [5, 5]},                                             "*\n8"
+  ],
+  [
+    {"y": -0.875, "x": 3.25},                                           "@\n2",
+    {"x": 1, "fa": [5, 5]},                                             "$\n4",
+    {"x": 7, "fa": [5, 5]},                                             "&\n7",
+    {"x": 1, "fa": [5, 5]},                                             "(\n9"
+  ],
+  [
+    {"y": -0.875, "x": 6.25, "fa": [5, 5]},                             "%\n5",
+    {"x": 5, "fa": [5, 5]},                                             "^\n6"
+  ],
+  [
+    {"y": -0.875, "x": 0.75, "w": 1.5, "fa": [5, 5]},                   "~\n`",
+    {"f": 3, "fa": [5, 5]},                                             "!\n1",
+    {"x": 13, "fa": [5, 5]},                                            ")\n0",
+    {"w": 1.5, "fa": [5, 5]},                                           "+\n="
+  ],
+  [
+    {"y": -0.375, "x": 4.25, "a": 7, "fa": [5]},                        "E",
+    {"x": 9, "fa": [5]},                                                "I"
+  ],
+  [
+    {"y": -0.875, "x": 3.25, "fa": [5]},                                "W",
+    {"x": 1, "fa": [5]},                                                "R",
+    {"x": 7, "fa": [5]},                                                "U",
+    {"x": 1, "fa": [5]},                                                "O"
+  ],
+  [
+    {"y": -0.875, "x": 6.25, "fa": [5]},                                "T",
+    {"x": 5, "fa": [5]},                                                "Y"
+  ],
+  [
+    {"y": -0.875, "x": 0.75, "w": 1.5, "fa": [5]},                      "Tab",
+    {"fa": [5]},                                                        "Q",
+    {"x": 13, "fa": [5]},                                               "P",
+    {"a": 5, "w": 1.5", fa": [5]},                                      "_\n-"
+  ],
+  [
+    {"y": -0.375, "x": 4.25, "a": 7, "fa": [5]},                        "D",
+    {"x": 9, "fa": [5]},                                                "K"
+  ],
+  [
+    {"y": -0.875, "x": 3.25, "fa": [5]},                                "S",
+    {"x": 1, "fa": [5]},                                                "F",
+    {"x": 7, "fa": [5]},                                                "J",
+    {"x": 1, "fa": [5]},                                                "L"
+  ],
+  [
+    {"y": -0.875, "x": 6.25, "fa": [5]},                                "G",
+    {"x": 5, "fa": [5]},                                                "H"
+  ],
+  [
+    {"y": -0.875, "x": 0.75, "f": 3, "w": 1.5, "fa": [5]},              "Ctrl",
+    {"f": 3, "fa": [5]},                                                "A",
+    {"x": 13, "a": 5, "f": 3, "fa": [5, 5]},                            ":\n;",
+    {"a": 7, "f": 3, "w": 1.5, "fa": [5]},                              "Enter"
+  ],
+  [
+    {"y": -0.375, "x": 4.25, "f": 3, "fa": [5]},                        "C",
+    {"x": 9, "a": 5, "f": 3, "fa": [5]},                                "<\n,"
+  ],
+  [
+    {"y": -0.875, "x": 3.25, "a": 7, "f": 3, "fa": [5]},                "X",
+    {"x": 1, "f": 3, "fa": [5]},                                        "V",
+    {"x": 7, "f": 3, "fa": [5]},                                        "M",
+    {"x": 1, "a": 5, "f": 3, "fa": [5, 5]},                             ">\n."
+  ],
+  [
+    {"y": -0.875, "x": 6.25, "a": 7, "f": 3, "fa": [5]},                "B",
+    {"x": 5, "f": 3, "fa": [5]},                                        "N"
+  ],
+  [
+    {
+      "y": -0.875,
+      "x": 0.75,
+      "t": "#Ffffff",
+      "f": 3,
+      "w": 1.5
+    },
+    "Shift",
+    {
+      "t": "#ffffff",
+      "f": 3
+    },
+    "Z",
+    {
+      "x": 13,
+      "a": 5,
+      "f": 3
+    },
+    "?\n/",
+    {
+      "a": 7,
+      "f": 3,
+      "w": 1.5
+    },
+    "Shift"
+  ],
+  [
+    {
+      "y": -0.375,
+      "x": 4.25,
+      "f": 3
+    },
+    "→",
+    {
+      "x": 9,
+      "a": 5,
+      "f": 3
+    },
+    "}\n]"
+  ],
+  [
+    {
+      "y": -0.875,
+      "x": 3.25,
+      "a": 7,
+      "f": 3
+    },
+    "↑",
+    {
+      "x": 1,
+      "f": 3
+    },
+    "Super",
+    {
+      "x": 7,
+      "a": 5,
+      "f": 3
+    },
+    "{\n[",
+    {
+      "x": 1,
+      "a": 7,
+      "f": 3
+    },
+    "F1"
+  ],
+  [
+    {
+      "y": -0.75,
+      "x": 1.25,
+      "f": 3
+    },
+    "←",
+    {
+      "f": 3
+    },
+    "↓",
+    {
+      "x": 13,
+      "f": 3
+    },
+    "F2",
+    {
+      "f": 3
+    },
+    "End"
+  ],
+  [
+    {
+      "r": 15,
+      "rx": 6.5,
+      "ry": 4.25,
+      "y": -0.75,
+      "x": 1,
+      "fa": [
+        4
+      ]
+    },
+    "Ctrl",
+    "Menu"
+  ],
+  [
+    {
+      "h": 2
+    },
+    "Back",
+    {
+      "h": 2
+    },
+    "Fn",
+    "Super"
+  ],
+  [
+    {
+      "x": 2
+    },
+    "Alt"
+  ],
+  [
+    {
+      "r": -15,
+      "rx": 13,
+      "y": -0.75,
+      "x": -3
+    },
+    "PgUp",
+    "Pgdn"
+  ],
+  [
+    {
+      "x": -3
+    },
+    "Ins",
+    {
+      "h": 2
+    },
+    "",
+    {
+      "h": 2
+    },
+    ""
+  ],
+  [
+    {
+      "x": -3
+    },
+    "Del"
+  ]
+]
